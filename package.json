@@ -1,0 +1,24 @@
+{
+  "name": "starest",
+  "version": "0.0.1",
+  "description": "Creates static REST endpoints, e.g. for server-side rendered websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihilor/starest.git"
+  },
+  "keywords": ["SSR", "Vuepress", "REST", "static"],
+  "author": {
+    "name": "Mark Lubkowitz",
+    "email": "me@mlu.io",
+    "url": "https://mlu.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihilor/starest/issues"
+  },
+  "homepage": "https://github.com/nihilor/starest#readme"
+}

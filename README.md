@@ -1,2 +1,3 @@
 # starest
-Creates static REST endpoints, e.g. for senver-side rendered websites.
+
+Creates static REST endpoints, e.g. for server-side rendered websites.
